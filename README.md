@@ -52,9 +52,6 @@
     </div>
 </div>
 
-<!-- Optional image below the main content -->
-<img src="https://ralabs.org/wp-content/uploads/2024/04/Rectangle-2431.jpg" alt="Optional Image" style="width: 100%; height: auto; margin-top: 20px; border-radius: 10px;">
-
 <div style="position: relative; text-align: center; background-image: url('https://th.bing.com/th/id/OIP.FhY2jL9E3OtyWAmmT_fFaAHaDt?w=341&h=175&c=7&r=0&o=5&dpr=1.5&pid=1.7'); background-size: cover; background-position: center; border-radius: 20px; border: 2px solid #64B5F6; padding: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4), 0px 6px 20px rgba(0, 0, 0, 0.19); transform: perspective(1000px) rotateX(5deg) rotateY(-5deg); transition: transform 0.5s ease-in-out;">
     <div style="position: relative; z-index: 1; background-color: rgba(255, 255, 255, 0.9); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px;">
         <p style="font-size: 16px; color: #000000;">
