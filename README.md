@@ -4,6 +4,9 @@
 ![NewsBot](https://corover.ai/wp-content/uploads/2021/10/news_bot-1280x1005.png) 
 
 
+# Application Interface 🖥️📱🔧🌐💻
+![image](https://github.com/Mustafa-Shoukat1/Advanced-News-Article-Analysis-with-LangChain-FAISS-and-Streamlit/assets/162743520/8607e6c7-e889-41e5-9911-027688154791)
+
 
 <div style="position: relative; text-align: center; background-image: url('https://th.bing.com/th/id/OIP.FhY2jL9E3OtyWAmmT_fFaAHaDt?w=341&h=175&c=7&r=0&o=5&dpr=1.5&pid=1.7'); background-size: cover; background-position: center; border-radius: 20px; border: 2px solid #64B5F6; padding: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4), 0px 6px 20px rgba(0, 0, 0, 0.19); transform: perspective(1000px) rotateX(5deg) rotateY(-5deg); transition: transform 0.5s ease-in-out;">
     <div style="position: relative; z-index: 1; background-color: rgba(255, 255, 255, 0.9); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px;">
