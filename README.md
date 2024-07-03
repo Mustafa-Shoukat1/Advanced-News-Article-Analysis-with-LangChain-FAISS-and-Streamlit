@@ -69,6 +69,8 @@
 
 **NewsBot** is a web-based tool designed to analyze news articles and provide insights based on the content. Built with Streamlit and LangChain, it allows users to input URLs of news articles, process the content, and retrieve answers to queries along with the sources.
 
+![Analytics](https://images.squarespace-cdn.com/content/v1/55ed989ee4b0c7f115ddc924/1541600620919-VEI2IOYGNT2WJXA2W4A0/analytics.gif)
+
 ## Features
 
 - **Process News Articles**: Enter up to 3 URLs of news articles for analysis.
